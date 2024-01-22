@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Controller
-public class SchoolController {
+public class  SchoolController {
 
     @Autowired
     private SchoolRepository schoolRepository;
